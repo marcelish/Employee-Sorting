@@ -1,0 +1,13 @@
+Accountant, Sable, 26
+Analyst, Betty, 23
+Analyst, Betty, 23
+Analyst, Kevin, 23
+Analyst, Tom, 23
+Manager, Bob, 43
+Manager, Ben, 57
+Programmer, Teddy, 17
+Sales, Sable, 17
+Sales, Sable, 32
+Sales, Donald, 36
+Sales, Dustin, 36
+Sales, Sable, 47
